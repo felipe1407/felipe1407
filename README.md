@@ -24,4 +24,4 @@
 ## ✉️ Contato
 
 📧 felipecm.dev@gmail.com  
-🔗 [(https://www.linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/felipe-martins-187a97211/)
+🔗 https://www.linkedin.com/in/felipe-martins-187a97211/
